@@ -1,0 +1,1 @@
+http://github.com/akrog/modulefaker/tarball/master#egg=modulefaker

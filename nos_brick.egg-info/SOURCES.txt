@@ -1,0 +1,8 @@
+setup.py
+nos_brick/__init__.py
+nos_brick.egg-info/PKG-INFO
+nos_brick.egg-info/SOURCES.txt
+nos_brick.egg-info/dependency_links.txt
+nos_brick.egg-info/not-zip-safe
+nos_brick.egg-info/requires.txt
+nos_brick.egg-info/top_level.txt
